@@ -5,7 +5,7 @@
   "version": "0.1.1",
   "author": "fmkkshi",
   "minimumCoreVersion": "9",
-  "compatibleCoreVersion": "*",
+  "compatibleCoreVersion": "13",
   "systems": ["dnd5e"],
   "scripts": ["scripts/patch-abilities.js"]
 }
