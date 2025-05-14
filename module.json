@@ -4,7 +4,7 @@
   "version": "0.1.0",
   "author": "fmkkshi",
   "minimumCoreVersion": "9",
-  "compatibleCoreVersion": "*",   <-- permite qualquer major version
+  "compatibleCoreVersion": "*",
   "systems": ["dnd5e"],
   "scripts": ["scripts/patch-abilities.js"]
 }
